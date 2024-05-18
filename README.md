@@ -1,7 +1,4 @@
-###
-
-
-# 👋 Hey, im Matheus Leonor! 
+👋 Hey, im Matheus Leonor! 
 <br>I love Java and Springboot!  <br>I would love to learn Kotlin!<br>Computer Science.<br><br><br><br>
 
 
