@@ -1,6 +1,6 @@
 ### Hi there 👋
+![matheus-leonor-device-industrial-arm-3](https://github.com/Matheus-Leonor/Matheus-Leonor/assets/88976642/1866cd49-25c1-470d-8a65-ccdb9b6fc544)
 
-![Uploading image.png…]()
 
 
 <!--
