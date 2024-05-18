@@ -1,5 +1,12 @@
 ### Hi there 👋
-![matheus-leonor-device-industrial-arm-3](https://github.com/Matheus-Leonor/Matheus-Leonor/assets/88976642/1866cd49-25c1-470d-8a65-ccdb9b6fc544)
+<h1 align="center">Hi 👋, I'm MLeonor</h1>
+<h3 align="center">Software Developer!</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+
+
 
 
 
