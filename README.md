@@ -1,5 +1,5 @@
 👋 Hey, im Matheus Leonor! 
-<br>I love Java and Springboot!  <br>I would love to learn Kotlin!<br>Computer Science.<br><br><br><br>
+<br>I love Java and Springboot! <br>I would love to learn Kotlin!<br>Computer Science.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mleonor_design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-leonor-0a017a227/) 
 
